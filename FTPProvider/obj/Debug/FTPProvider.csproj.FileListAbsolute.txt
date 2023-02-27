@@ -1,0 +1,13 @@
+C:\Users\Tengo\source\repos\FTPProvider\FTPProvider\obj\Debug\FTPProvider.csproj.AssemblyReference.cache
+C:\Users\Tengo\source\repos\FTPProvider\FTPProvider\obj\Debug\FTPProvider.csproj.CoreCompileInputs.cache
+C:\Users\Tengo\source\repos\FTPProvider\FTPProvider\bin\Debug\FTPProvider.dll
+C:\Users\Tengo\source\repos\FTPProvider\FTPProvider\bin\Debug\FTPProvider.pdb
+C:\Users\Tengo\source\repos\FTPProvider\FTPProvider\bin\Debug\FluentFTP.dll
+C:\Users\Tengo\source\repos\FTPProvider\FTPProvider\bin\Debug\LLoger.dll
+C:\Users\Tengo\source\repos\FTPProvider\FTPProvider\bin\Debug\log4net.dll
+C:\Users\Tengo\source\repos\FTPProvider\FTPProvider\bin\Debug\FluentFTP.xml
+C:\Users\Tengo\source\repos\FTPProvider\FTPProvider\bin\Debug\LLoger.pdb
+C:\Users\Tengo\source\repos\FTPProvider\FTPProvider\bin\Debug\log4net.xml
+C:\Users\Tengo\source\repos\FTPProvider\FTPProvider\obj\Debug\FTPProvider.csproj.CopyComplete
+C:\Users\Tengo\source\repos\FTPProvider\FTPProvider\obj\Debug\FTPProvider.dll
+C:\Users\Tengo\source\repos\FTPProvider\FTPProvider\obj\Debug\FTPProvider.pdb
